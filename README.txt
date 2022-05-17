@@ -1,0 +1,4 @@
+->The .exe file is the application while the .csv files are the databases.
+->Upon exectuting the application you are required to login with the correct credentials.
+->according to the login of the user(student/professor/librarian) you will be listed with the functions you can do , enter the number on the left to do the same.
+-> the database will be updated only when the code sucessfully runs , that is when u quit after logging out.
